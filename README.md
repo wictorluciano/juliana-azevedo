@@ -2,7 +2,7 @@
  
  Landing page para uma profissional de contabilidade para mostrar seus serviços e sua história.
 
-<a href="https://juliana-azevedo.vercel.app/"> <img src="readme.png"></a>
+<a href="https://juliana-azevedo.vercel.app/"> <img src="readmee.png"></a>
 
 ## 🔗 Projeto:
 
