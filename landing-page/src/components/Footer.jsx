@@ -1,12 +1,11 @@
 export default function Footer() {
     return (
-      <footer id="contato" className="bg-dark-scale-400 mt-14">
-        <div className="flex flex-col items-center">
-          <div className="flex items-center justify-between border-b border-brand-color
-          w-[312px] md:w-[500px] lg:w-[1024px] h-[100px] lg:h-[200px] mx-auto">
-            <img src="/logo2.svg" alt="" className="w-[100px] lg:w-[180px]"/>
+      <footer id="contato" className="flex flex-col items-center justify-center bg-dark-scale-400 mt-14">
+        <div className="flex flex-col justify-center w-[312px] md:w-[500px] lg:w-[1024px] h-[150px] lg:h-[200px]">
+          <div className="flex items-center justify-between border-b border-brand-color gap-2">
+            <img src="/logo2.svg" alt="" className="w-[90px] lg:w-[180px]"/>
               <div className="flex gap-4 lg:gap-12">
-                <div className="flex gap-1 lg:gap-6">
+                <div className="flex gap-2 lg:gap-6">
                   <a target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?phone=5521973209697&text=Olá,%20Gostaria%20de%20informações%20sobre%20a%20declaração%20de%20imposto%20de%20renda.">
                       <div className="flex items-center  
                       w-[36px] h-[36px] xl:w-[50px] xl:h-[50px]
