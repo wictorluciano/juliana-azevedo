@@ -30,8 +30,8 @@ export default function Header() {
         <nav className="flex items-center justify-between 
         w-[312px] md:w-[500px] lg:w-[1024px] h-[60px]">
           <div className="flex items-center gap-2">
-            <img src="/favicon.svg" alt="logo juliana azevedo" className="lg:w-7" />
-            <span className="text-brand-color text-sm font-semibold lg:text-lg">Juliana Azevedo</span>
+            <img src="/favicon.svg" alt="logo juliana azevedo" className="w-7 lg:w-7" />
+            <span className="text-[#d2a7a1] font-sans text-sm  lg:text-lg">Juliana Azevedo</span>
           </div>
 
           {/* menu lg */}
