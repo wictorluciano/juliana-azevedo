@@ -81,7 +81,7 @@ export default function Main() {
         <SectionHero />
 
         <div className="flex items-center justify-center lg:hidden">
-          <img src="/logo2.svg" alt="" className="my-14" />
+          <img src="/logo2.svg" alt="" className="w-[170px] my-8" />
         </div>
 
         <Section          

@@ -3,7 +3,7 @@ export default function Footer() {
       <footer id="contato" className="flex flex-col items-center justify-center bg-dark-scale-400 mt-14">
         <div className="flex flex-col justify-center w-[312px] md:w-[500px] lg:w-[1024px] h-[150px] lg:h-[200px]">
           <div className="flex items-center justify-between border-b border-brand-color gap-2">
-            <img src="/logo2.svg" alt="" className="w-[90px] lg:w-[180px]"/>
+            <img src="/logo2.svg" alt="" className="w-[70px] lg:w-[170px] mb-2"/>
               <div className="flex gap-4 lg:gap-12">
                 <div className="flex gap-2 lg:gap-6">
                   <a target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?phone=5521973209697&text=Olá,%20Gostaria%20de%20informações%20sobre%20a%20declaração%20de%20imposto%20de%20renda.">
