@@ -14,7 +14,7 @@ export default function SectionHero() {
               <span className="text-brand-color font-bold text-2xl lg:font-bold lg:text-5xl">Simples e Rápido!</span>
               <span className="text-dark-scale-200 font-semibold text-sm lg:font-semibold lg:text-xl">Existimos para facilitar a sua vida!</span>
             </div>
-            <a target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?phone=5521973209697&text=Olá,%20Gostaria%20de%20informações%20sobre%20a%20declaração%20de%20imposto%20de%20renda.">
+            <a target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?phone=5521993088630&text=Olá,%20Gostaria%20de%20informações%20sobre%20a%20declaração%20de%20imposto%20de%20renda.">
               <button className="text-white font-semibold text-sm drop-shadow-xl
               bg-brand-color rounded-[50px] px-4 py-2 lg:px-9 lg:py-4
               hover:bg-dark-scale-400 hover:text-brand-color hover:border hover:border-brand-color
