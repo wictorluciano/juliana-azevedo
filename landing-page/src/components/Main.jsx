@@ -125,7 +125,7 @@ export default function Main() {
         
         <div className="flex flex-col lg:flex-row items-center justify-center gap-6 w-[312px] md:w-[500px] lg:w-[1024px] mx-auto">
           <h1 className="font-bold text-2xl text-center lg:text-4xl lg:text-start lg:w-[380px]">Faça Agora o seu Orçamento!</h1>
-          <a target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?phone=5521973209697&text=Olá,%20Gostaria%20de%20informações%20sobre%20a%20declaração%20de%20imposto%20de%20renda.">
+          <a target="_blank" rel="noreferrer" href="https://api.whatsapp.com/send?phone=5521993088630&text=Olá,%20Gostaria%20de%20informações%20sobre%20a%20declaração%20de%20imposto%20de%20renda.">
             <button className="text-white font-semibold text-sm drop-shadow-xl 
             bg-brand-color rounded-[50px] px-4 py-2 lg:px-9 lg:py-4
             hover:bg-dark-scale-400 hover:text-brand-color hover:border hover:border-brand-color
